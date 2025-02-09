@@ -67,3 +67,4 @@ The **Standard Library** is used for functions like `malloc()` (memory allocatio
 ### **Conclusion**  
 
 This program provides a **fundamental understanding** of **singly linked lists** in C. It introduces **dynamic memory allocation**, **pointer manipulation**, and **basic data structure operations**, which are essential for mastering **linked list concepts** in **data structures and algorithms (DSA).**
+<img width="1512" alt="Image" src="https://github.com/user-attachments/assets/ef651be0-5cf7-430a-8991-06f7e21c28fa" />
